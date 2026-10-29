@@ -1,0 +1,6 @@
+{
+  "appId": "com.prumo.financas",
+  "appName": "Prumo",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
